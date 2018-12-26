@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
-gitt starts keep tracking of my changes. because otherwise git isn't working
+git starts keep tracking of my changes. because otherwise git isn't working
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Because in the staging area is where the changes are stored .
+it doesn't modify the working directory.
+
+ma dici che queste vengono messe?
