@@ -5,4 +5,5 @@ How is the staging area different from the working directory and the repository?
 Because in the staging area is where the changes are stored .
 it doesn't modify the working directory.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
